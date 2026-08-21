@@ -81,7 +81,7 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yogesh-waran-s" target="_blank">
+<a href="https://www.linkedin.com/in/yogeshwaran-s-a09651360/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:yw06960@gmail.com">
