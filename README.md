@@ -53,14 +53,6 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 
 <br>
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogesh20-02&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</div>
-
-<br>
-
 ## 📈 Contribution Graph
 
 <div align="center">
