@@ -13,7 +13,7 @@
 
 I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering College** (Anna University), Chennai. I'm building a strong foundation in core CS concepts and enjoy turning ideas into working software. Currently exploring AI tools and cloud basics alongside my coursework.
 
-- 🔭 Focused on strengthening **DSA, DBMS, OS, and OOP** fundamentals
+- 🔭 Focused on strengthening **DSA, DBMS, OS, and OOP** fundamentals and technologies
 - 🌱 Currently exploring **AWS basics** and AI productivity tools
 - 🤝 Looking to collaborate on beginner-friendly and open-source projects
 - 🎤 Presented technical papers at IEEE and national-level tech fests
