@@ -9,7 +9,7 @@
 
 <br>
 
-## 🚀 About  Me
+##  🚀 About  Me
 
 I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering College** (Anna University), Chennai. I'm building a strong foundation in core CS concepts and enjoy turning ideas into working software. Currently exploring AI tools and cloud basics alongside my coursework.
 
