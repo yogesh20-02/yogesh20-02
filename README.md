@@ -18,7 +18,7 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 - 🤝 Looking to collaborate on beginner-friendly and open-source projects
 - 🎤 Presented technical papers at IEEE and national-level tech fests
 - 📍 Tenkasi, Tamil Nadu, India
-- 📫 **yw06960@gmail.com**
+- 📫 **yogesh20022007@gmail.com**
 
 <br>
 
