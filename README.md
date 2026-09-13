@@ -43,7 +43,6 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 
 <br>
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
