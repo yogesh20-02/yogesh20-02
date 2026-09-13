@@ -64,7 +64,7 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh20-02&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yogesh20-02&theme=react-dark&hide_border=true" alt="activity graph" />
 </div>
 
 <br>
