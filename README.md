@@ -63,6 +63,15 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 </div>
 
 <br>
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogesh20-02/yogesh20-02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogesh20-02/yogesh20-02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yogesh20-02/yogesh20-02/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
 
 ## 🎯 Highlights
 
