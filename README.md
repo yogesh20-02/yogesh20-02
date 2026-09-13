@@ -56,6 +56,14 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 
 <br>
 
+## 📊 GitHub Stats and Activity
+
+<p align="center">
+    <img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=yogesh20-02&hide_title=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="yogesh20-02" />
+</p>
+
+<br>
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -63,6 +71,7 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 </div>
 
 <br>
+
 ## 🐍 Contribution Snake
 
 <picture>
