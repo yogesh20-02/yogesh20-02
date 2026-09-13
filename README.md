@@ -6,7 +6,10 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge" alt="status" />
 
 </div>
-
+<br>
+<div align="center">
+  <img src="chat.svg" width="480"/>
+</div>
 <br>
 
 ##  🚀 About  Me
