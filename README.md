@@ -61,14 +61,6 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 
 <br>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yogesh20-02&theme=react-dark&hide_border=true" alt="activity graph" />
-</div>
-
-<br>
-
 ## 🐍 Contribution Snake
 
 <picture>
