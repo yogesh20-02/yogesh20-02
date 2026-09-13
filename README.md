@@ -7,7 +7,7 @@
 
 </div>
 <br>
-<div align="center">
+<div align="left">
   <img src="chat.svg" width="480"/>
 </div>
 <br>
