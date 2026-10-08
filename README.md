@@ -4,6 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=yogesh20-02&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge" alt="status" />
+<a href="https://yogeshwaran-portfolio.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My-Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+</a>
 
 </div>
 <br>
@@ -21,7 +24,9 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 - 🤝 Looking to collaborate on beginner-friendly and open-source projects
 - 🎤 Presented technical papers at IEEE and national-level tech fests
 - 📍 Tenkasi, Tamil Nadu, India
+- 🌐 Portfolio: [yogeshwaran-portfolio.onrender.com](https://yogeshwaran-portfolio.onrender.com/)
 - 📫 **yogesh20022007@gmail.com**
+
 
 <br>
 
@@ -84,18 +89,13 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 ## 🌐 Connect with Me
 
 <p align="left">
+<a href="https://yogeshwaran-portfolio.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/yogeshwaran-s-a09651360/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:yogesh20022007.com">
+<a href="mailto:yogesh20022007@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-
-<br>
-
-<div align="center">
-  <i>"Continuous learning and problem-solving drive everything I build."</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1CE783&height=100&section=footer"/>
