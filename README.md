@@ -1,34 +1,23 @@
-<div align="start">
+<div align="left">
 
 <img src="https://github.com/user-attachments/assets/b42e9819-be4b-462a-b172-f91a6ddae500" width="100%" alt="Yogeshwaran S"/>
 
-<img src="https://komarev.com/ghpvc/?username=yogesh20-02&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge" alt="status" />
 <a href="https://yogeshwaran-portfolio.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/View%20My-Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
 </a>
 
 </div>
-<br>
-<div align="left">
-  <img src="chat.svg" width="480"/>
-</div>
-<br>
 
-##  🚀 About  Me
+## 🚀 About Me
 
-I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering College** (Anna University), Chennai. I'm building a strong foundation in core CS concepts and enjoy turning ideas into working software. Currently exploring AI tools and cloud basics alongside my coursework.
+I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering College** (Anna University), Chennai. I enjoy turning ideas into working software across web, mobile, and AI, and I'm currently exploring cloud basics alongside my coursework.
 
-- 🔭 Focused on strengthening **DSA, DBMS, OS, and OOP** fundamentals and technologies
-- 🌱 Currently exploring **AWS basics** and AI productivity tools
+- 🔭 Strengthening **DSA, DBMS, OS, and OOP** fundamentals
+- 🌱 Exploring **AWS basics** and applied AI
 - 🤝 Looking to collaborate on beginner-friendly and open-source projects
 - 🎤 Presented technical papers at IEEE and national-level tech fests
-- 📍 Tenkasi, Tamil Nadu, India
-- 🌐 Portfolio: [yogeshwaran-portfolio.onrender.com](https://yogeshwaran-portfolio.onrender.com/)
-- 📫 **yogesh20022007@gmail.com**
-
-
-<br>
+- 📫 yogesh20022007@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -39,42 +28,27 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <!-- Add the frameworks/libraries you've actually used: React, Flask, TensorFlow, etc. -->
 </p>
-
-<br>
 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yogesh20-02&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
-
-
-<br>
-
-## 📊 GitHub Stats and Activity
-
 <p align="center">
-    <img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=yogesh20-02&hide_title=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="yogesh20-02" />
+  <img src="https://streak-stats.demolab.com/?user=yogesh20-02&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
 </p>
-
-<br>
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: black)" srcset="https://raw.githubusercontent.com/yogesh20-02/yogesh20-02/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: red)" srcset="https://raw.githubusercontent.com/yogesh20-02/yogesh20-02/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yogesh20-02/yogesh20-02/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogesh20-02/yogesh20-02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogesh20-02/yogesh20-02/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/yogesh20-02/yogesh20-02/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br>
 
 ## 🎯 Highlights
 
@@ -83,8 +57,6 @@ I'm a 3rd-year Computer Science Engineering student at **Panimalar Engineering C
 - 🏭 Industrial Visit – **Redback IT Solutions Pvt. Ltd.**, Vellore
 - 🥈 2nd Place – **Thulir Science Talent Test** (District Level)
 - 💡 Idea Submission – **Student Innovation & Development Program (SIDP)**
-
-<br>
 
 ## 🌐 Connect with Me
 
